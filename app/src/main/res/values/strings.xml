@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cloud Information</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">SAZsam0lSOFuR71YdjTmbJQMO3YLlPoT3fjmgvZF</string>
+    <string name="back4app_client_key">QnbQc8UcoiLKLGQ6zFuWWnloexg580cOeCHr92s2</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="or">Or</string>
+    <string name="proceed">Proceed</string>
+    <string name="enter_name">Enter Name....</string>
+    <string name="enter_age">Enter Age....</string>
+    <string name="enter_phone_number">Enter Phone Number....</string>
+    <string name="enter_information">Enter Information</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">password</string>
+    <string name="see_information">See Information</string>
+    <string name="enter_phone_number_to_search">Enter Phone Number to Search....</string>
+    <string name="search">Search</string>
+</resources>
